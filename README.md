@@ -7,7 +7,7 @@ Conway's Game of Life implemented using HTML, CSS, and JavaScript.
 Conway's Game of Life is a cellular automaton devised by John Horton Conway. It's a zero-player game where the evolution of the grid is determined by its initial state, requiring no further input once started.
 
 ## Live Preview
-[here](https://vajranger.netlify.app/)
+[here](https://games-of-lives.netlify.app/)
 
 ## Features
 
